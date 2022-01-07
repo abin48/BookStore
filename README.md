@@ -6,9 +6,7 @@ npm install
 # see below .env file structure and replace with your values
 npm run dev
 # project starts
-
 .env File Structure
-
 NODE_ENV = development
 PORT = 5000
 MONGO_URI = your mongodb uri
