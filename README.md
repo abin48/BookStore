@@ -2,10 +2,10 @@ cd BookStore-App
 npm install
 cd frontend
 npm install
-# To run server you must have .env file in root project directory
-# see below .env file structure and replace with your values
+To run server you must have .env file in root project directory
+see below .env file structure and replace with your values
 npm run dev
-# project starts
+project starts
 .env File Structure
 NODE_ENV = development
 PORT = 5000
